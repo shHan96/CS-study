@@ -1,5 +1,5 @@
 # CS-study
-
+<img src="./img/cs-study.png" alt="cs-study" width="500" height="500">
 
 
 
@@ -13,15 +13,15 @@
 
 - [교재 및 강의] 
 ### 교재 : 면접을 위한 CS 전공지식 노트 주홍철 저 
-
+<img src="./img/cs-study-book.jpg" alt="cs-study" width="500" height="500">
 
 ### 교재 : 이것이 C++이다 최호성 저
+<img src="./img/thisiscpp.jpg" alt="cs-study" width="500" height="500">
 
 
-
-### 강의 : 운영체제 공룡책 강의(주니온) - 인프런
-
-
+### 강의 : 널널한 개발자 TV, C개발자를 위한 최소한의 C++
+* 무료 인강 : [널널한 개발자 TV](https://www.youtube.com/watch?v=kq6b5zBkQ28&list=PLVsNizTWUw7EngGgS-7jWdgy5NgkIjHxz)
+* 유료 인강 : https://inf.run/wo9Da
 
 
 
