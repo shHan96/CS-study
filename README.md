@@ -79,7 +79,7 @@
 ## 3. Reference  
 
 
-(0) [운영체제 스터디]([https://github.com/MarkSon-42/TeamStudy-ComputerNetwork](https://github.com/yeongjinjeong/Operating-System-Study.git) - README.md 형식 참고
+(0) [운영체제 스터디](https://github.com/yeongjinjeong/Operating-System-Study.git) - README.md 형식 참고
 
 
 ---
